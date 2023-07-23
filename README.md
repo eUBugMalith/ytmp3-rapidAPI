@@ -1,1 +1,2 @@
-# ytmp3-rapidAPI
+install - # npm install
+run - # npm start
